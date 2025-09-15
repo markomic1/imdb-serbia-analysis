@@ -58,6 +58,9 @@ The analysis produces the following outputs:
 > Interpretation: Use `pivot_genre_by_decade.csv` to see which genres dominate each decade.  
 > Use the directors summary and chart to spot consistently high-rated directors with a meaningful body of work.
 
+## Outputs
+- `pivot_genre_by_decade.csv` — saved automatically.
+- “Top 10 directors” chart — displayed (optionally saved as `outputs/top10_directors.png`).
 
 ## How to Run
 1. Place `IMDB.csv` next to your Python script (or notebook).
