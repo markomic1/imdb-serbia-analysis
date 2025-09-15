@@ -30,7 +30,6 @@ Download the dataset and place the movie-level CSV in the project root as `IMDB.
   
 ![Top 10 directors](assets/top10_directors.png)
 
-
 ## Results
 
 The analysis produces the following outputs:
