@@ -27,6 +27,9 @@ Download the dataset and place the movie-level CSV in the project root as `IMDB.
    - Build a pivot table: number of films per **genre × decade**
 4. **Visualization**
    - Horizontal bar chart: **Top 10 directors** by rating
+  
+![Top 10 directors](assets/top10_directors.png)
+
 
 ## Results
 
